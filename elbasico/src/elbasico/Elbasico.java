@@ -28,3 +28,5 @@ public static void cadenas() {
      /*Asiganción de valor a la variable*/  
 
         palabrita = "hola";
+}
+}
