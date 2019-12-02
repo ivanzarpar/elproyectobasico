@@ -16,6 +16,39 @@ public class Elbasico {
 
      */
 
+    public static void logicos() {
+
+
+
+        //Estos son los tipos básicos
+
+        boolean bueno;
+
+        int a;
+
+        int b;
+
+
+
+        //Ejemplos de asignación de valores a las variables de tipos básicos
+
+        bueno = true;
+
+        a = 5;
+
+        b = 4;
+
+
+
+        if (a > b){
+
+        //Mostrar en pantalla el contendido siempre que se cumpla la condición.
+
+        
+
+       
+
+        System.out.println(bueno);
     public static void numericos() {
 
 
@@ -69,5 +102,14 @@ public class Elbasico {
     }
 
     
+
+    }
+
+     public static void main(String[] args) {
+
+        logicos();  // Llamada al método
+
+    }
+>>>>>>> logicos
 
 }
