@@ -11,11 +11,20 @@ package elbasico;
  */
 public class Elbasico {
 
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
-    
-}
+     /**
+
+     * Método para mostrar ejemplo de tipo cadena de caracteres
+
+     * */
+
+public static void cadenas() {
+
+ /*Tipo básico*/
+
+        String palabrita;
+
+        
+
+     /*Asiganción de valor a la variable*/  
+
+        palabrita = "hola";
